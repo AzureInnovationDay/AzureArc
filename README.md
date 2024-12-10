@@ -11,7 +11,7 @@ Pour activer ton lab, récupère un code d'activation auprès d'un des proctors.
 Une fois ton code obtenu, va créer un nouveau compte Microsoft (https://go.microsoft.com/fwlink/?linkid=2269091) ou utilise un que tu utilises déja personnellement :
 
 - Ouvre ton navigateur favoris en mode Incognito ou InPrivate
-- Nous te conseillons de le créer avec une nouvelle adresse, comme proposé sur la page, en Outlook.fr
+- Nous te conseillons de le créer avec **une nouvelle adresse**, comme proposé sur la page, en Outlook.fr
 
 ATTENTION : n'utilises pas ton compte d'entreprise Office 365 ou to Azure Pass sera perdu !
 
