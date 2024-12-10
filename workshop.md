@@ -2,7 +2,7 @@
 
 Mais c'est normal ! Pour ce workshop, nous allons nous baser sur la box Arc, mise à disposition sur https://azurearcjumpstart.io/. Je te rassure, nous n'allons pour TOUT faire (à moins que tu ais une semaine devant toi). Non, nous allons nous concentrer sur les scénarios qui suivent:
 
-##Déploiement de l'ArcBox
+## Déploiement de l'ArcBox
 
 Pour commencer, nous allons déployer "l'ArcBox for IT pros".
 
@@ -29,6 +29,7 @@ ArcBox comprend trois serveurs gérés par Azure Arc qui sont hébergées en uti
 ### Unified Operations
 
 ArcBox déploie plusieurs services de gestion et d’opérations qui fonctionnent avec les ressources Azure Arc d’ArcBox. Ces ressources comprennent un espace de travail Azure Log Analytics, un workbook Azure Monitor, des policies Azure pour déployer des agents Azure Monitor sur les serveurs Windows et Linux activés par Azure Arc, une policy Azure pour ajouter des balises aux ressources, et un compte de stockage utilisé pour la mise en scène des ressources nécessaires à l’automatisation du déploiement
+
 ![ArcBox unified operations diagram](./unifiedops.png)
 
 => Suis le scénario proposé de bout en bout : https://azurearcjumpstart.io/azure_jumpstart_arcbox/ITPro
