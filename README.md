@@ -23,7 +23,7 @@ Ouvre un second onglet et connecte toi à https://www.microsoftazurepass.com/. A
 
 Une fois connecté, clique sur "Confirm Microsoft Account" et entre ton code de pass, puis remplis les formulaires suivants, jusqu'à la création de la souscription !
 
-Pour plus de detail : [AzurePass](./azurepass.md)
+Pour plus de detail : [Activation de ton Azure Pass](./azurepass.md)
 
 C'est bon, tu est prêt à t'engager sur le lab !
 
