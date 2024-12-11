@@ -28,10 +28,10 @@ ArcBox for IT Pros est une version spéciale d’ArcBox destinée aux utilisateu
 ArcBox comprend trois serveurs gérés par Azure Arc qui sont hébergées en utilisant la virtualisation imbriquée dans Azure. Dans le cadre du déploiement, un hôte Hyper-V (ArcBox-Client) est déployé avec trois machines virtuelles invitées. Ces machines, ArcBoxWin, ArcBoxUbuntu et ArcBoxSQL, sont connectées en tant que serveurs gérés par Azure Arc via l’automatisation de l'ArcBox
 
 ERRATUM :
-Dans la partie acivation des providers azure, il faut rajouter :
+Dans la partie activation des providers azure, il faut rajouter :
 
-Microsoft.Insights
-Microsoft.HybridConnectivity
+- Microsoft.Insights
+- Microsoft.HybridConnectivity
 
 
 ### Unified Operations
